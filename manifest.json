@@ -6,7 +6,9 @@
     "theme_color": "red",
     "background_color": "blue",
     "description": "Kahit ano",
+    "serviceworker": "serviceworker.js",
     "icons": [
+  
       {
         "src": "img/icon-192.png",
         "sizes": "192x192",
